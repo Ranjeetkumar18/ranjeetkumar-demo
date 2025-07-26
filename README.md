@@ -1,4 +1,4 @@
 # ranjeetkumar-demo
 This is my First Git Repository.
 <br>
-Author-ranjeet patel
+Author-ranjeet (student)
